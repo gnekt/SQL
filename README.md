@@ -2,5 +2,5 @@
 all resources used for Databases exam
 
 
-# EX_1
+# ex_1
 first exercise
