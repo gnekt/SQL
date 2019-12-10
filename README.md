@@ -3,4 +3,7 @@ all resources used for Databases exam
 
 
 # ex_1
-first exercise
+Some Test
+
+# EXAM
+My project for DataBases Exam
